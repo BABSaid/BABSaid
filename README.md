@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-<img align='right' src='https://avatars.githubusercontent.com/u/178090845?s=96&v=4' width='200"'>
+<img align='right' src='https://avatars.githubusercontent.com/u/178090845?v=4' width='250"'>
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Ekinoxx0)
 
