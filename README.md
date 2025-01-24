@@ -13,10 +13,13 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 ## 💡 Projects with My Work
 
-- [**Valestia**](https://discord.gg/SH7CDP4hXT): My current work on a GTA 5 RP server
-- [**BaltiHost**](https://discord.gg/4sychhgHeY): Hébergeur
-- [**DISCORD**](https://discord.gg/ujKHmF4Ngp): My discord
+- [**𝙚𝙣 🎲⛺**](https://discord.gg/fRbJgB84RE): Discord Communauté 
+- [**Seine76RP | FA**](https://discord.gg/YrpnGxNW3D): Mon travaille sur GTA RP
 
 ## 📚 General
 
-- 🔭 I’m currently working on StreamVerse & Valestia
+- 🔭 I’m currently working on 𝙚𝙣 🎲⛺ & Seine76RP
+
+
+## 💻 Work Stats
+![Inconnue's Github stats](https://github-readme-stats.vercel.app/api?username=BABSaid)
