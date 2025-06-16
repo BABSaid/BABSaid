@@ -13,8 +13,8 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 ## 💡 Projects with My Work
 
-- [**𝙚𝙣 🎲⛺**](https://discord.gg/fRbJgB84RE): Discord Communauté 
-- [**VelysiaRP | Gmod **](https://discord.gg/vuG4kf64): Mon travaille sur Garry's Mod
+- **[𝙚𝙣 🎲⛺](https://discord.gg/fRbJgB84RE): Discord Communauté **
+- **[VelysiaRP | Gmod ](https://discord.gg/vuG4kf64): Mon travaille sur Garry's Mod**
 
 ## 📚 General
 
