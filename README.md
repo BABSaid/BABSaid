@@ -14,11 +14,11 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 ## 💡 Projects with My Work
 
 - [**𝙚𝙣 🎲⛺**](https://discord.gg/fRbJgB84RE): Discord Communauté 
-- [**Seine76RP | FA**](https://discord.gg/YrpnGxNW3D): Mon travaille sur GTA RP
+- [**VelysiaRP | Gmod **](https://discord.gg/vuG4kf64): Mon travaille sur Garry's Mod
 
 ## 📚 General
 
-- 🔭 I’m currently working on 𝙚𝙣 🎲⛺ & Seine76RP
+- 🔭 I’m currently working on 𝙚𝙣 🎲⛺ & VelysiaRP
 
 
 ## 💻 Work Stats
