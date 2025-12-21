@@ -15,7 +15,7 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 ## 💡 Projects with My Work
 
 -   [𝙚𝙣 🎲⛺](https://discord.gg/fRbJgB84RE): Discord Communauté 
-- **[VelysiaRP | Gmod ](https://discord.gg/vuG4kf64): Mon travaille sur Garry's Mod**
+- **[MoneroWL | Gmod ](https://discord.gg/vuG4kf64): Mon travaille sur Garry's Mod**
 
 ## 📚 General
 
@@ -54,3 +54,5 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 -   ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 -   ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 -   ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+<img src="https://urskill.erickpaoletti.fr?icons=photoshop,php,vite,htmx,,canva,,unity,,windows,,vscode,premiere,mysql,vuejs,markdown,,figma,,unrealengine,,windowserver,,visualstudio,,mariadb,python,nodejs,,blender,,,,apple,,sublime,,apache,tailwindcss,typescript,,,,,,,,,,,html,lua,,,,,,,,,,,discordjs,javascript,,,,,,,,,,,nginx,dotnet,,,,,,,,,,,,,,,,,,,,,,,,,discord,x,youtube,instagram,github&max_per_row=12&background_color=292929" />
