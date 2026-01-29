@@ -14,7 +14,7 @@ I work with **JavaScript**, **Lua**, **Java**, **C**, and **Vue.js**, mainly on 
 
 🎮 Player for **Lunaris Esport** (Valorant)  
 💻 Developer using **Windsurf**  
-💬 Open to discuss ideas, projects, and collaborations!
+💬 Open to discuss ideas, projects, or collaborations!
 
 ---
 
@@ -32,20 +32,34 @@ I work with **JavaScript**, **Lua**, **Java**, **C**, and **Vue.js**, mainly on 
 
 ---
 
-## 💻 Work Stats
+## 🛠️ Languages & Skills
 
-![Inconnue's Github stats](https://github-readme-stats.vercel.app/api?username=BABSaid&show_icons=true&theme=radical)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ---
 
-## 🛠️ Tech & Tools
+## 🚀 Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Windsurf](https://img.shields.io/badge/Windsurf-00C8FF?style=for-the-badge)  
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5?style=for-the-badge&logo=windows&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white)  
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)  
-![Signal](https://img.shields.io/badge/Signal-%23039BE5?style=for-the-badge&logo=Signal&logoColor=white)  
-![Windsurf](https://img.shields.io/badge/Windsurf-00C8FF?style=for-the-badge)  
+![Signal](https://img.shields.io/badge/Signal-%23039BE5?style=for-the-badge&logo=Signal&logoColor=white)
+
+---
+
+## 📊 GitHub Metrics (Optional)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BABSaid&layout=compact)
+
+<!-- GitHub Trophies -->
+![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=BABSaid&theme=radical)
 
