@@ -14,7 +14,7 @@ I work with **JavaScript**, **Lua**, **Java**, **C**, and **Vue.js**, mainly on 
 
 🎮 Player for **Lunaris Esport** (Valorant)  
 💻 Developer using **Windsurf**  
-💬 Open to discuss ideas, projects, or collaborations!
+💬 Open to discuss ideas, projects, and collaborations!
 
 ---
 
@@ -55,11 +55,20 @@ I work with **JavaScript**, **Lua**, **Java**, **C**, and **Vue.js**, mainly on 
 
 ---
 
-## 📊 GitHub Metrics (Optional)
+## ✨ Extra Stuff
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BABSaid&layout=compact)
+### 🤔 Things I enjoy
+- 🎧 Gaming & Valorant sessions  
+- 🛠 Building RP experiences & server logic  
+- 🚀 Learning new stacks and tools  
 
-<!-- GitHub Trophies -->
-![Trophy Showcase](https://github-profile-trophy.vercel.app/?username=BABSaid&theme=radical)
+> “Code every day, push for excellence.”  
+> — *my personal motto*
 
+---
+
+<!-- Optional section example -->
+<!--
+## 📌 New Projects Coming Soon
+Stay tuned for upcoming work with more details and links!
+-->
