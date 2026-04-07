@@ -12,7 +12,6 @@
 Hi, I'm **Said**, a developer from Rouen, France.  
 I work with **JavaScript**, **Lua**, **Java**, **C**, and **Vue.js**, mainly on **FiveM / Gmod projects**.  
 
-🎮 Player for **Lunaris Esport** (Valorant)  
 💻 Developer using **Windsurf**  
 💬 Open to discuss ideas, projects, and collaborations!
 
@@ -21,14 +20,12 @@ I work with **JavaScript**, **Lua**, **Java**, **C**, and **Vue.js**, mainly on 
 ## 📫 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ismail097646)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imodzbobby13@gmail.fr)
 
 ---
 
 ## 💡 Projects
 
-[![VICECITY RP](https://img.shields.io/badge/🌴-VICECITY%20RP-red?style=for-the-badge)](https://discord.gg/3aRkKdG2Jn)  
-*FiveM US Roleplay Project – NEXT-GEN experience*
+Nothing
 
 ---
 
@@ -61,14 +58,3 @@ I work with **JavaScript**, **Lua**, **Java**, **C**, and **Vue.js**, mainly on 
 - 🎧 Gaming & Valorant sessions  
 - 🛠 Building RP experiences & server logic  
 - 🚀 Learning new stacks and tools  
-
-> “Code every day, push for excellence.”  
-> — *my personal motto*
-
----
-
-<!-- Optional section example -->
-<!--
-## 📌 New Projects Coming Soon
-Stay tuned for upcoming work with more details and links!
--->
